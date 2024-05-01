@@ -1,10 +1,10 @@
-# AS3Colors
+# Colors!
 
-as3colors is a simple color library for Actionscript 3.0. it consists of 2 files, Color and RGBA.
+`Colors!` is a simple color library for Actionscript 3.0. it consists of 2 files, Color and RGBA.
 
 `RGBA` - a class containing color values along with color manipulation methods for both RGB and RGBA.
 
-`Colors` - a class containing predefined RGBA color objects.
+`Color` - a class containing predefined RGBA color objects.
 
 ## Usage
 
